@@ -1,1 +1,1 @@
-# Build and Deploy an AI-Powered 3D Website Using React
+# Build and Deploy a 3D Website Using React
